@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Docs-App/static/css/main.497edbda.css",
-    "main.js": "/Docs-App/static/js/main.1d3c3ba3.js",
-    "static/media/dxicons.woff": "/Docs-App/static/media/dxicons.88c9febb051d9204a743.woff",
-    "static/media/dxicons.ttf": "/Docs-App/static/media/dxicons.dee5683ec0edb6c19034.ttf",
-    "static/media/dxicons.woff2": "/Docs-App/static/media/dxicons.52cf573f82922400fd7f.woff2",
-    "index.html": "/Docs-App/index.html",
-    "main.497edbda.css.map": "/Docs-App/static/css/main.497edbda.css.map",
-    "main.1d3c3ba3.js.map": "/Docs-App/static/js/main.1d3c3ba3.js.map"
+    "main.css": "/Docs-App/Mainpage/static/css/main.321e82c7.css",
+    "main.js": "/Docs-App/Mainpage/static/js/main.75a38c0e.js",
+    "static/media/dxicons.woff": "/Docs-App/Mainpage/static/media/dxicons.88c9febb051d9204a743.woff",
+    "static/media/dxicons.ttf": "/Docs-App/Mainpage/static/media/dxicons.dee5683ec0edb6c19034.ttf",
+    "static/media/dxicons.woff2": "/Docs-App/Mainpage/static/media/dxicons.52cf573f82922400fd7f.woff2",
+    "index.html": "/Docs-App/Mainpage/index.html",
+    "main.321e82c7.css.map": "/Docs-App/Mainpage/static/css/main.321e82c7.css.map",
+    "main.75a38c0e.js.map": "/Docs-App/Mainpage/static/js/main.75a38c0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.497edbda.css",
-    "static/js/main.1d3c3ba3.js"
+    "static/css/main.321e82c7.css",
+    "static/js/main.75a38c0e.js"
   ]
 }
